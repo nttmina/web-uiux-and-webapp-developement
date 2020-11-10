@@ -1,2 +1,2 @@
-# web-uiux-and-webapp-developement
-web-uiux-and-webapp-developement
+# web-uiux-and-webapp-development
+web-uiux-and-webapp-development
